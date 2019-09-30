@@ -1,0 +1,12 @@
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\bin\Debug\netstandard2.0\HNWrapper.deps.json
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\bin\Debug\netstandard2.0\HNWrapper.dll
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\bin\Debug\netstandard2.0\HNWrapper.pdb
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\bin\Debug\netstandard2.0\Models.dll
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\obj\Debug\netstandard2.0\HNWrapper.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\obj\Debug\netstandard2.0\HNWrapper.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\obj\Debug\netstandard2.0\HNWrapper.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\obj\Debug\netstandard2.0\HNWrapper.AssemblyInfo.cs
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\obj\Debug\netstandard2.0\HNWrapper.csproj.CopyComplete
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\obj\Debug\netstandard2.0\HNWrapper.dll
+C:\Users\Dev\source\repos\WebApplication1\HNWrapper\obj\Debug\netstandard2.0\HNWrapper.pdb
